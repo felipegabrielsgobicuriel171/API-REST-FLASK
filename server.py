@@ -1,11 +1,6 @@
 """ 
 API REST FLASK
-
 Autor: Felipe Gabriel Sgobi Curiel
-
-Matéria: Programação Multiplataforma
-
-O codigo foi testado no postman e o BD foi enviado em conjunto com o codigo
 """
 
 
